@@ -24,5 +24,9 @@ https://arxiv.org/abs/2308.06721 <br />
 https://animatediff.github.io/ <br />
 https://ip-adapter.github.io/ <br />
 
+### 🖼 Output
+
+https://github.com/camenduru/comfyui-ipadapter-animatediff-tost/assets/54370274/7eb85e14-74d0-4e70-b5e2-a98e564e5953
+
 ### 🏢 Sponsor
 https://runpod.io
