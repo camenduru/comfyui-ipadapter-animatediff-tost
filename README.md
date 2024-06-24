@@ -8,13 +8,13 @@ https://tost.ai
 ### 🧬 Code
 https://github.com/guoyww/animatediff/ <br />
 https://github.com/tencent-ailab/IP-Adapter <br />
-https://github.com/camenduru/ComfyUI <br />
-https://github.com/camenduru/comfy_mtb <br />
-https://github.com/camenduru/ComfyUI_IPAdapter_plus <br />
-https://github.com/camenduru/ComfyUI-AnimateDiff-Evolved <br />
-https://github.com/camenduru/ComfyUI-Image-Selector <br />
-https://github.com/camenduru/ComfyUI-Frame-Interpolation <br />
-https://github.com/camenduru/ComfyUI-VideoHelperSuite <br />
+https://github.com/comfyanonymous/ComfyUI <br />
+https://github.com/melMass/comfy_mtb <br />
+https://github.com/cubiq/ComfyUI_IPAdapter_plus <br />
+https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved <br />
+https://github.com/SLAPaper/ComfyUI-Image-Selector <br />
+https://github.com/Fannovel16/ComfyUI-Frame-Interpolation <br />
+https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite <br />
 
 ### 📄 Paper
 https://arxiv.org/abs/2307.04725 <br />
