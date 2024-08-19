@@ -1,44 +1,44 @@
 {
-  "$schema": "http://json-schema.org/draft-04/hyper-schema#",
-  "type": "object",
-  "properties": {
+    "$schema": "http://json-schema.org/draft-04/hyper-schema#",
+    "type": "object",
+    "properties": {
       "readme": {
-          "type": "string",
-          "title": "IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models",
-          "author": "Hu Ye, Jun Zhang, Sibo Liu, Xiao Han, Wei Yang",
-          "page": "https://ip-adapter.github.io/",
-          "code": "https://github.com/tencent-ailab/IP-Adapter",
-          "paper": "https://arxiv.org/abs/2308.06721",
-          "jupyter": "https://github.com/camenduru/IPAdapter-jupyter",
-          "tags": [
-              "Text to Video"
-          ],
-          "widget": "readme"
+        "type": "string",
+        "title": "IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models",
+        "author": "Hu Ye, Jun Zhang, Sibo Liu, Xiao Han, Wei Yang",
+        "page": "https://ip-adapter.github.io/",
+        "code": "https://github.com/tencent-ailab/IP-Adapter",
+        "paper": "https://arxiv.org/abs/2308.06721",
+        "jupyter": "https://github.com/camenduru/IPAdapter-jupyter",
+        "api": "https://github.com/camenduru/tost-api-examples/blob/main/v1/comfyui-ipadapter-animatediff.ipynb",
+        "tags": [
+          "Text to Video"
+        ],
+        "widget": "readme"
       },
       "prompt": {
-          "type": "string",
-          "description": "Positive Prompt",
-          "widget": "textarea"
+        "type": "string",
+        "description": "Positive Prompt",
+        "widget": "textarea"
       },
       "negative_prompt": {
-          "type": "string",
-          "description": "Negative Prompt",
-          "widget": "textarea"
+        "type": "string",
+        "description": "Negative Prompt",
+        "widget": "textarea"
       },
       "seed": {
-          "type": "integer",
-          "description": "Seed"
-      }
-      ,
+        "type": "integer",
+        "description": "Seed"
+      },
       "is_upscale": {
-          "type": "boolean",
-          "description": "Upscale"
+        "type": "boolean",
+        "description": "Upscale"
       }
-  },
-  "buttons": [
+    },
+    "buttons": [
       {
-          "id": "enter",
-          "label": "🥪 Enter"
+        "id": "enter",
+        "label": "🥪 Enter"
       }
-  ]
+    ]
 }
