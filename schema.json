@@ -33,6 +33,14 @@
       "is_upscale": {
         "type": "boolean",
         "description": "Upscale"
+      },
+      "example": {
+        "type": "string",
+        "image1": "https://fakeimg.pl/946x1696/282828/eae0d0/?text=input#.png",
+        "image2": "https://files.catbox.moe/1oi11x.png",
+        "image3": "https://fakeimg.pl/946x1696/282828/eae0d0/?text=output#.png",
+        "image4": "https://files.catbox.moe/c37lyn.gif",
+        "widget": "example"
       }
     },
     "buttons": [
